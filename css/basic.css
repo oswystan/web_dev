@@ -1,0 +1,99 @@
+body
+{
+	background-color:#FAFAFA;
+	font-family: Helvetica, sans-serif;
+}
+
+input
+{
+	border-style:solid;
+	border-width:1;
+	border-color:#CCCCCC;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.banner
+{
+	background-color:#F5F5F5;
+	width:100%;
+	height:auto;
+	display:block;
+	float:left;
+}
+.footer
+{
+	display:block;
+	float:left;
+	background-color:#F8F8F8;
+	width:100%;
+	padding:12 0 12 0;
+	color:#CC3300;
+	font-family:"Gill Sans MT Pro Book";
+	font-size:18px;
+}
+
+.thumbnail_box
+{
+	display:inline;
+	float:left;
+	background-color:#F8F8F8;
+	border-color:#CCCCCC;
+	border-style:solid;
+	border-width:1;
+	width:auto;
+	height:auto;
+	color:#999999;
+	padding:1 1 1 1;
+	margin:8 8 8 0;
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.1);
+}
+.thumbnail_box:hover
+{
+	display:inline;
+	float:left;
+	background-color:#F8F8F8;
+	border-color:#CCCCCC;
+	border-style:solid;
+	border-width:1;
+	width:auto;
+	height:auto;
+	color:#999999;
+	padding:1 1 1 1;
+	margin:8 8 8 0;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0);
+}
+.thumbnail_picture
+{
+	width:128;
+	height:128;
+}
+.thumbnail_desc
+{
+	margin:2 2 2 2;
+	font-size:14px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-weight:bold;
+}
+
+.delimeter_block
+{
+	display:block;
+	float:left;
+	width:100%;
+	height:auto;
+	padding:10 0 10 0;
+	margin:4 0 0 0 ;
+	background-color:#F9F9F9;
+	color:#666666;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.block_contrainer
+{
+	display:block;
+	float:left;
+	min-height:200;
+	height:auto;
+}
